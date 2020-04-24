@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Corona Virus</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="countries" id="countries">
+        <select id="country"> </select>
+      </div>
+
+      <div class="row">
+        <div class="dataBox" id="confirmed">
+          <fieldset>
+            <legend>Confirmed</legend>
+            <h3>23445</h3>
+          </fieldset>
+        </div>
+        <div class="dataBox" id="recovered">
+          <fieldset>
+            <legend>Recovered</legend>
+            <h3>233</h3>
+          </fieldset>
+        </div>
+        <div class="dataBox" id="deaths">
+          <fieldset>
+            <legend>Deaths</legend>
+            <h3>423</h3>
+          </fieldset>
+        </div>
+      </div>
+
+      <div class="img" id="img-box">
+        <img
+          id="img"
+          src=""
+          onerror="javascript:this.src='images/defaultImage.png'"
+        />
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
