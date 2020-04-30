@@ -1,7 +1,7 @@
 # vanillaWebProjects
 Mini projects built with HTML5, CSS &amp; JavaScript. No frameworks or libraries
 
-[](https://imgur.com/GnnqKbk)
+![](https://imgur.com/GnnqKbk)
 
 This is the main repository for all of the projects in the course.
 
