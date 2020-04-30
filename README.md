@@ -1,6 +1,9 @@
 # vanillaWebProjects
 Mini projects built with HTML5, CSS &amp; JavaScript. No frameworks or libraries
 
+![GitHub Logo](https://imgur.com/GnnqKbk)
+Format: ![Alt Text](url)
+
 This is the main repository for all of the projects in the course.
 
 |  #  |            Project             | Live Demo |
